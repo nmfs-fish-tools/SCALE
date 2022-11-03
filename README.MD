@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/SCALE/
+https://nmfs-fish-tools.github.io/SCALE
 
 **************
 
